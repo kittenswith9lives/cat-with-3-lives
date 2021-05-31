@@ -1,0 +1,39 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAP8PAAAAAADwP/8AAAAA8P8z8wAAAPDwMzPzAADw//8zM/MAAP8zPzMz8wAAPz8/MzPzAAA/8z8zM/MA8P//MzMz8wDw8zMzMzP/8P8zMzMzMw/wMzMzMzMzD/AzMzMzMzMP8D8zMzMz8w8A////////AA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Enemy"
+    },
+    "tile2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAMwAAAAAAADAzAwAAAAAAMzMzAwAAADAzMzMDAAAAMDMzMzMDAAAAMzMzMwMAAAAwMzMDAAAAADMzMwMAAAAwMzMzAAAAADAzMwMAAAAAMDMzAAAAAAAwMzMAAAAAAAAzAwAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Heart"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDA2MDYwNjA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDYwNjA2MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDUwNjA2MDMwMzA0MDQwNDAzMDMwMzAzMDMwMzAzMDQwNTA1MDQwMzA0MDQwMjA0MDMwMzAzMDQwNDA0MDQwNDA1MDUwNDAzMDMwNDA0MDQwNDA0MDMwMzAzMDQwNDA0MDUwNTAxMDQwMzAzMDMwNDA0MDQwNDA0MDMwNDA0MDQwNTA1MDQwNDA0MDQwMzAzMDQwNDAxMDQwMzA0MDQwNDA1MDUwNDAzMDQwNDA0MDMwMzA0MDQwNDA0MDQwMjA0MDUwNTA0MDMwNDAxMDQwNDA0MDMwMzA0MDMwNDA0MDQwNTA1MDQwMzA0MDQwMzAzMDMwMzAzMDQwMzA0MDQwNDA1MDUwNDAzMDQwMzAzMDQwNDA0MDQwNDAzMDQwNDA0MDUwNTA0MDMwNDAzMDMwMzAzMDMwMzAzMDMwNDA0MDQwNTA1MDQwMzA0MDQwNDA0MDQwNDAzMDMwNDA0MDQwNDA1MDUwNDAzMDMwNDA0MDQwMTA0MDQwNDA0MDMwNDA0MDUwNTA0MDQwMzAzMDMwNDA0MDQwNDAzMDMwMzAzMDQwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDAyMDIyMjIyMjIyMjIyMjAwMDAwMDAwMDAwMDAwMjAwMDIyMDAyMDIyMjIyMjIwMDIwMjAwMjAyMjAwMDAyMDAyMjIwMDAwMjAyMjAwMjAwMjIwMjIwMDAwMjAwMDIwMDIwMDIwMDIwMDIwMDAyMDAyMDIwMDIyMDAyMDAwMjAwMjAyMDAwMDIyMjAwMDIwMDIwMjIwMjIyMjIwMDAyMDAyMDIyMjAwMDAyMDAwMjAwMjAyMjIyMjIyMjIwMDIwMDIwMjAwMDAyMDAyMDAyMDAyMjIwMDAwMDAwMDIyMjAwMjIwMjIwMDAwMjIyMjIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "myTiles.tile1",
+            "myTiles.tile2",
+            "sprites.castle.tileGrass2",
+            "sprites.castle.tileGrass1",
+            "sprites.builtin.forestTiles0",
+            "sprites.swamp.swampTile13"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
